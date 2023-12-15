@@ -5,9 +5,9 @@ Adilhyz binary package [(x86_64 package)](https://github.com/ADILHYZ/adilhyz-rep
 
 | Package                                                | Version |
 | ------------------------------------------------------ | ------- |
-| [adilhyz-cursors](https://adilhyz.github.io/adilhyz-repo/x86_64/adilhyz-cursors-1.1-0-any.pkg.tar.zst) | 1.1.0   |
-| [adilhyz-icons](https://adilhyz.github.io/adilhyz-repo/x86_64/adilhyz-icons-1.1-0-any.pkg.tar.zst)     | 1.1.0   |
-| [adilhyz-themes](https://adilhyz.github.io/adilhyz-repo/x86_64/adilhyz-themes-1.1-0-any.pkg.tar.zst)   | 1.1.0   |
+| [adilhyz-cursors](https://adilhyz.github.io/adilhyz-repo/x86_64/adilhyz-cursors-1.1-1-any.pkg.tar.zst) | 1.1.1   |
+| [adilhyz-icons](https://adilhyz.github.io/adilhyz-repo/x86_64/adilhyz-icons-1.1-1-any.pkg.tar.zst)     | 1.1.1   |
+| [adilhyz-themes](https://adilhyz.github.io/adilhyz-repo/x86_64/adilhyz-themes-1.1-1-any.pkg.tar.zst)   | 1.1.1   |
 
 
 ## Binnary Packages?
