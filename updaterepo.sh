@@ -65,9 +65,9 @@ sleep 0.5
 
 # remove syslink to avoid any issues #
 echo -e "${BRed}\n[+] Removing syslink to avoid any Issues...\n${Color_Off}"
-rm adilhyz-repo.db adilhyz-repo.files
-mv adilhyz-repo.db.tar.gz adilhyz-repo.db
-mv adilhyz-repo.files.tar.gz adilhyz-repo.files
+#rm adilhyz-repo.db adilhyz-repo.files
+#mv adilhyz-repo.db.tar.gz adilhyz-repo.db
+#mv adilhyz-repo.files.tar.gz adilhyz-repo.files
 echo -e "\n${BGreen}[+] Successful Removing ✔"
 sleep 0.5
 
